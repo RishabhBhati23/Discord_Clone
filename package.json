@@ -1,0 +1,27 @@
+{
+  "name": "discord_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishabhBhati23/Projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RishabhBhati23/Projects/issues"
+  },
+  "homepage": "https://github.com/RishabhBhati23/Projects#readme",
+  "dependencies": {
+    "vite": "^4.5.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3"
+  }
+}
